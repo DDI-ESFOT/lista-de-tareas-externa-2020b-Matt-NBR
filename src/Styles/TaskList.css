@@ -1,0 +1,9 @@
+#completed {
+    border: 1px solid black;
+    background-color: green;
+}
+
+#incomplete {
+    border: 1px solid black;
+    background-color: yellow;
+}
